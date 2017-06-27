@@ -7,9 +7,9 @@ Text Text Text Text
 GOGOGOGOGOGOGOGOGOG
 *Text*
 **TEST**
-#This is a big heading#
+# This is a big heading
 It was the best of times.
-## Some of the best times ##
+## Some of the best times 
 
 Player | Number | Position
 -------|--------|----------
