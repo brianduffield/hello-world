@@ -14,5 +14,16 @@ It was the best of times.
 Player | Number | Position
 -------|--------|----------
 Graham |     1  |   SS
--------|--------|----------
 James  |    2   |   1B
+
+### Unordered List
+* Bullet 1
+* Bullet 2
+   * Bullet 2a
+   * Bullet 2b
+
+### Ordered List
+1. Item 1
+1. Item 2
+    1. Item 2a
+    1. Item 2b
